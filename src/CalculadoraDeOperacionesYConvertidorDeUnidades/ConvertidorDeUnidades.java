@@ -1,6 +1,5 @@
 package CalculadoraDeOperacionesYConvertidorDeUnidades;
 
-import static java.lang.System.*;
 
 public class ConvertidorDeUnidades {
   protected static double result;
